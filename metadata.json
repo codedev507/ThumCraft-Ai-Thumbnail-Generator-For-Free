@@ -1,0 +1,6 @@
+{
+  "name": "ThumbCraft AI - YouTube Thumbnail Generator & Optimizer Studio",
+  "description": "AI-powered high-converting video thumbnail generator with custom text overlays, brand palettes, high-CTR viral templates, bulk multi-platform export, team collaboration review workspace, and real-time AI performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
